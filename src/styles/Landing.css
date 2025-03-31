@@ -1,0 +1,23 @@
+.landing-container {
+  text-align: center;
+  padding: 50px;
+}
+
+.landing-container h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.signup-button {
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  background-color: white;
+  border: 2px solid #007bff;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.signup-button:hover {
+  background-color: #007bff;
+  color: white;
+}
